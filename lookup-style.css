@@ -4,8 +4,6 @@ body{
     height: 100vh;
     background-position: center;
     background-size: cover;
-
-
 }
 
 button{
@@ -67,10 +65,10 @@ nav{
 }
 
 .toolUL{
-    overflow:hidden; 
-    overflow-y:scroll; 
-    margin-top:1px; 
-    height:150px;
+    overflow: hidden; 
+    overflow-y: scroll; 
+    margin-top: 1px; 
+    height: 150px;
     list-style-type: none;
     background-color: none;
     text-align: center; 
